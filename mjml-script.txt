@@ -1,0 +1,199 @@
+No changes found for email_template_service/mjml/templates/university-of-nottingham/progression-ahead-students.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-nottingham/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-nottingham/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-nottingham/graduate-certification-graduate-programme.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-nottingham/keep-up-progress.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-nottingham/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-nottingham/progression-leaderboard-update.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-nottingham/progress-above-80.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/progression-ahead-students.mjml
+Could not find email template for auto-graded-tasks in HyperionDev...
+creating...
+
+No mjml template found for email_template_service/mjml/templates/hyperiondev/auto-graded-tasks.mjml
+
+Creating mjml template for email_template_service/mjml/templates/hyperiondev/auto-graded-tasks.mjml
+
+Successfully updated email_template_service/mjml/templates/hyperiondev/auto-graded-tasks.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/student-not-started.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/application-submitted.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/review-needs-resubmission.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/graduate-certification-graduate-programme.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/keep-up-progress.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/progression-leaderboard-update.mjml
+
+No changes found for email_template_service/mjml/templates/hyperiondev/progress-above-80.mjml
+
+No changes found for email_template_service/mjml/templates/schulich-school-of-business/progression-ahead-students.mjml
+
+No changes found for email_template_service/mjml/templates/schulich-school-of-business/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/schulich-school-of-business/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/schulich-school-of-business/graduate-certification-graduate-programme.mjml
+
+No changes found for email_template_service/mjml/templates/schulich-school-of-business/keep-up-progress.mjml
+
+No changes found for email_template_service/mjml/templates/schulich-school-of-business/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/schulich-school-of-business/progression-leaderboard-update.mjml
+
+No changes found for email_template_service/mjml/templates/schulich-school-of-business/progress-above-80.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-edinburgh/progression-ahead-students.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-edinburgh/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-edinburgh/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-edinburgh/graduate-certification-graduate-programme.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-edinburgh/keep-up-progress.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-edinburgh/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-edinburgh/progression-leaderboard-update.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-edinburgh/progress-above-80.mjml
+
+No changes found for email_template_service/mjml/templates/edhec-business-school-online/progression-ahead-students.mjml
+
+No changes found for email_template_service/mjml/templates/edhec-business-school-online/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/edhec-business-school-online/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/edhec-business-school-online/graduate-certification-graduate-programme.mjml
+
+No changes found for email_template_service/mjml/templates/edhec-business-school-online/keep-up-progress.mjml
+
+No changes found for email_template_service/mjml/templates/edhec-business-school-online/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/edhec-business-school-online/progression-leaderboard-update.mjml
+
+No changes found for email_template_service/mjml/templates/edhec-business-school-online/progress-above-80.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/progress-above-50.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/progression-update.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/progression-ahead-students.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/auto-graded-tasks.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/student-not-started.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/application-submitted.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/trustpilot-review-mail.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/review-needs-resubmission.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/keep-up-progress.mjml
+
+Successfully updated email_template_service/mjml/templates/dfe/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/dfe/progress-above-80.mjml
+
+No changes found for email_template_service/mjml/templates/city-university-of-london/progression-ahead-students.mjml
+
+No changes found for email_template_service/mjml/templates/city-university-of-london/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/city-university-of-london/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/city-university-of-london/graduate-certification-graduate-programme.mjml
+
+No changes found for email_template_service/mjml/templates/city-university-of-london/keep-up-progress.mjml
+
+No changes found for email_template_service/mjml/templates/city-university-of-london/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/city-university-of-london/progression-leaderboard-update.mjml
+
+No changes found for email_template_service/mjml/templates/city-university-of-london/progress-above-80.mjml
+
+No changes found for email_template_service/mjml/templates/stellenbosch-university/progression-ahead-students.mjml
+
+No changes found for email_template_service/mjml/templates/stellenbosch-university/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/stellenbosch-university/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/stellenbosch-university/graduate-certification-graduate-programme.mjml
+
+No changes found for email_template_service/mjml/templates/stellenbosch-university/keep-up-progress.mjml
+
+No changes found for email_template_service/mjml/templates/stellenbosch-university/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/stellenbosch-university/progression-leaderboard-update.mjml
+
+No changes found for email_template_service/mjml/templates/stellenbosch-university/progress-above-80.mjml
+
+No changes found for email_template_service/mjml/templates/imperial-college-london/progression-ahead-students.mjml
+
+No changes found for email_template_service/mjml/templates/imperial-college-london/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/imperial-college-london/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/imperial-college-london/keep-up-progress.mjml
+
+No changes found for email_template_service/mjml/templates/imperial-college-london/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/imperial-college-london/progression-leaderboard-update.mjml
+
+No changes found for email_template_service/mjml/templates/imperial-college-london/progress-above-80.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-manchester/progression-ahead-students.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-manchester/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-manchester/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-manchester/graduate-certification-graduate-programme.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-manchester/keep-up-progress.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-manchester/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-manchester/progression-leaderboard-update.mjml
+
+No changes found for email_template_service/mjml/templates/university-of-manchester/progress-above-80.mjml
+
+No changes found for email_template_service/mjml/templates/massachusetts-institute-of-technology/progression-ahead-students.mjml
+
+No changes found for email_template_service/mjml/templates/massachusetts-institute-of-technology/verify-email.mjml
+
+No changes found for email_template_service/mjml/templates/massachusetts-institute-of-technology/inactive-students.mjml
+
+No changes found for email_template_service/mjml/templates/massachusetts-institute-of-technology/graduate-certification-graduate-programme.mjml
+
+No changes found for email_template_service/mjml/templates/massachusetts-institute-of-technology/course-registration.mjml
+
+No changes found for email_template_service/mjml/templates/massachusetts-institute-of-technology/keep-up-progress.mjml
+
+No changes found for email_template_service/mjml/templates/massachusetts-institute-of-technology/lagging-students.mjml
+
+No changes found for email_template_service/mjml/templates/massachusetts-institute-of-technology/progression-leaderboard-update.mjml
+
+No changes found for email_template_service/mjml/templates/massachusetts-institute-of-technology/progress-above-80.mjml
